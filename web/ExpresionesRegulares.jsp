@@ -60,6 +60,9 @@
                 
                 var respuesta = expresion.test(valor);
                 $("#resultado").text(respuesta);
+                
+                
+                //UUUUUUUUU
             });
         });
     </script>
